@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Привет!");
+        System.out.println("Привет мир!");
         double dog = 8;
         System.out.println(dog);
         var cat = 3.6;
@@ -42,7 +42,6 @@ public class Main {
         var DiferenceWeigtBoxer = BoxerWeigt2 - BoxerWeigt1;
         System.out.println("разница в весе бойцов " + DiferenceWeigtBoxer + " кг");
 
-        var Diference = BoxerWeigt2 % BoxerWeigt1;
         System.out.println("разница в весе бойцов " + DiferenceWeigtBoxer + " кг");
         var TotalHours = 640;
         var WorkingTime = 8;
